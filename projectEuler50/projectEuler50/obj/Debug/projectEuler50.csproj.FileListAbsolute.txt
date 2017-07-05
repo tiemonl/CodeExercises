@@ -1,0 +1,6 @@
+C:\Users\ljtiemon\Documents\Visual Studio 2017\Projects\projectEuler50\projectEuler50\bin\Debug\projectEuler50.exe.config
+C:\Users\ljtiemon\Documents\Visual Studio 2017\Projects\projectEuler50\projectEuler50\bin\Debug\projectEuler50.exe
+C:\Users\ljtiemon\Documents\Visual Studio 2017\Projects\projectEuler50\projectEuler50\bin\Debug\projectEuler50.pdb
+C:\Users\ljtiemon\Documents\Visual Studio 2017\Projects\projectEuler50\projectEuler50\obj\Debug\projectEuler50.csprojResolveAssemblyReference.cache
+C:\Users\ljtiemon\Documents\Visual Studio 2017\Projects\projectEuler50\projectEuler50\obj\Debug\projectEuler50.exe
+C:\Users\ljtiemon\Documents\Visual Studio 2017\Projects\projectEuler50\projectEuler50\obj\Debug\projectEuler50.pdb

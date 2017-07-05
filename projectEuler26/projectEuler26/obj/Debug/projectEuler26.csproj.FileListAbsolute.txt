@@ -1,0 +1,6 @@
+c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler26\projectEuler26\bin\Debug\projectEuler26.exe.config
+c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler26\projectEuler26\bin\Debug\projectEuler26.exe
+c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler26\projectEuler26\bin\Debug\projectEuler26.pdb
+c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler26\projectEuler26\obj\Debug\projectEuler26.exe
+c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler26\projectEuler26\obj\Debug\projectEuler26.pdb
+C:\Users\ljtiemon\Documents\Visual Studio 2017\Projects\projectEuler26\projectEuler26\obj\Debug\projectEuler26.csprojResolveAssemblyReference.cache

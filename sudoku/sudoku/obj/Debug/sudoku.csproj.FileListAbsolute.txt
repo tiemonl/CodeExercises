@@ -1,0 +1,6 @@
+c:\users\ljtiemon\documents\visual studio 2017\Projects\sudoku\sudoku\bin\Debug\sudoku.exe.config
+c:\users\ljtiemon\documents\visual studio 2017\Projects\sudoku\sudoku\bin\Debug\sudoku.exe
+c:\users\ljtiemon\documents\visual studio 2017\Projects\sudoku\sudoku\bin\Debug\sudoku.pdb
+c:\users\ljtiemon\documents\visual studio 2017\Projects\sudoku\sudoku\obj\Debug\sudoku.exe
+c:\users\ljtiemon\documents\visual studio 2017\Projects\sudoku\sudoku\obj\Debug\sudoku.pdb
+C:\Users\ljtiemon\documents\visual studio 2017\Projects\sudoku\sudoku\obj\Debug\sudoku.csprojResolveAssemblyReference.cache

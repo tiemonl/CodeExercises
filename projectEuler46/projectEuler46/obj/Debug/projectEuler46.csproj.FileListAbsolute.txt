@@ -1,0 +1,6 @@
+c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler46\projectEuler46\bin\Debug\projectEuler46.exe.config
+c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler46\projectEuler46\bin\Debug\projectEuler46.exe
+c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler46\projectEuler46\bin\Debug\projectEuler46.pdb
+c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler46\projectEuler46\obj\Debug\projectEuler46.csprojResolveAssemblyReference.cache
+c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler46\projectEuler46\obj\Debug\projectEuler46.exe
+c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler46\projectEuler46\obj\Debug\projectEuler46.pdb

@@ -1,0 +1,5 @@
+c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler41\projectEuler41\bin\Debug\projectEuler41.exe.config
+c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler41\projectEuler41\bin\Debug\projectEuler41.exe
+c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler41\projectEuler41\bin\Debug\projectEuler41.pdb
+c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler41\projectEuler41\obj\Debug\projectEuler41.exe
+c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler41\projectEuler41\obj\Debug\projectEuler41.pdb
