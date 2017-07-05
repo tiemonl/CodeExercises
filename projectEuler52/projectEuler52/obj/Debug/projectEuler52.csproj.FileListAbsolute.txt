@@ -1,5 +1,0 @@
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler52\projectEuler52\bin\Debug\projectEuler52.exe.config
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler52\projectEuler52\bin\Debug\projectEuler52.exe
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler52\projectEuler52\bin\Debug\projectEuler52.pdb
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler52\projectEuler52\obj\Debug\projectEuler52.exe
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler52\projectEuler52\obj\Debug\projectEuler52.pdb

@@ -1,6 +1,0 @@
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler24\projectEuler24\obj\Debug\projectEuler24.csprojResolveAssemblyReference.cache
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler24\projectEuler24\bin\Debug\projectEuler24.exe.config
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler24\projectEuler24\bin\Debug\projectEuler24.exe
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler24\projectEuler24\bin\Debug\projectEuler24.pdb
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler24\projectEuler24\obj\Debug\projectEuler24.exe
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler24\projectEuler24\obj\Debug\projectEuler24.pdb

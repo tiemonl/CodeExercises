@@ -1,6 +1,0 @@
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler81\projectEuler81\bin\Debug\projectEuler81.exe.config
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler81\projectEuler81\bin\Debug\projectEuler81.exe
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler81\projectEuler81\bin\Debug\projectEuler81.pdb
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler81\projectEuler81\obj\Debug\projectEuler81.csprojResolveAssemblyReference.cache
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler81\projectEuler81\obj\Debug\projectEuler81.exe
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler81\projectEuler81\obj\Debug\projectEuler81.pdb

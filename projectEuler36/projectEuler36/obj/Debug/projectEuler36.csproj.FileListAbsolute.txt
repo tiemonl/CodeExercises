@@ -1,5 +1,0 @@
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler36\projectEuler36\bin\Debug\projectEuler36.exe.config
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler36\projectEuler36\bin\Debug\projectEuler36.exe
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler36\projectEuler36\bin\Debug\projectEuler36.pdb
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler36\projectEuler36\obj\Debug\projectEuler36.exe
-c:\users\ljtiemon\documents\visual studio 2017\Projects\projectEuler36\projectEuler36\obj\Debug\projectEuler36.pdb

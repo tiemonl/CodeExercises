@@ -1,6 +1,0 @@
-c:\users\ljtiemon\documents\visual studio 2017\Projects\playground\playground\bin\Debug\playground.exe.config
-c:\users\ljtiemon\documents\visual studio 2017\Projects\playground\playground\bin\Debug\playground.exe
-c:\users\ljtiemon\documents\visual studio 2017\Projects\playground\playground\bin\Debug\playground.pdb
-c:\users\ljtiemon\documents\visual studio 2017\Projects\playground\playground\obj\Debug\playground.csprojResolveAssemblyReference.cache
-c:\users\ljtiemon\documents\visual studio 2017\Projects\playground\playground\obj\Debug\playground.exe
-c:\users\ljtiemon\documents\visual studio 2017\Projects\playground\playground\obj\Debug\playground.pdb

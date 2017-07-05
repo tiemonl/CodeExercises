@@ -1,6 +1,0 @@
-C:\Users\ljtiemon\Documents\Visual Studio 2017\Projects\projectEuler29\projectEuler29\bin\Debug\projectEuler29.exe.config
-C:\Users\ljtiemon\Documents\Visual Studio 2017\Projects\projectEuler29\projectEuler29\bin\Debug\projectEuler29.exe
-C:\Users\ljtiemon\Documents\Visual Studio 2017\Projects\projectEuler29\projectEuler29\bin\Debug\projectEuler29.pdb
-C:\Users\ljtiemon\Documents\Visual Studio 2017\Projects\projectEuler29\projectEuler29\obj\Debug\projectEuler29.exe
-C:\Users\ljtiemon\Documents\Visual Studio 2017\Projects\projectEuler29\projectEuler29\obj\Debug\projectEuler29.pdb
-C:\Users\ljtiemon\Documents\Visual Studio 2017\Projects\projectEuler29\projectEuler29\obj\Debug\projectEuler29.csprojResolveAssemblyReference.cache
