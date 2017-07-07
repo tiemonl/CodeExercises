@@ -41,7 +41,6 @@ namespace projectEuler081 {
                         matrix[row, col] += matrix[row, col - 1];
                     }
                 }
-
             }
             Console.WriteLine(matrix[ROW - 1, COL - 1]);
         }
