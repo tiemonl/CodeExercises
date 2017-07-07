@@ -11,6 +11,7 @@ namespace projectEuler014 {
             Stopwatch s = Stopwatch.StartNew();
             int longestChain=0;
             int numWithLongestChain = 0;
+            int check = collatz(27);
             for (int i = 2; i < 1000000; i++) {
                 int chain = collatz(i);
                 if (longestChain<chain) {
@@ -18,6 +19,7 @@ namespace projectEuler014 {
                     numWithLongestChain = i;
                 }
             }
+            Console.WriteLine(check);
             Console.WriteLine(numWithLongestChain);
             s.Stop();
             Console.WriteLine("solution took {0} ms",s.Elapsed.TotalMilliseconds);
