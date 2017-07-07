@@ -5,6 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//This sieve code (ESieve method) is courtesy of Kristian over at https://www.mathblog.dk
+//I do not want to take any credit for this code as it has helped me a lot.
 namespace sieveOfEratosthenes
 {
     class Program
