@@ -9,4 +9,4 @@ Some solutions in here are not currently complete and are being worked on. These
 69, 72, 94, 99, 549
 
 I didn't save my first few solutions as I did not think I would get so far, I am in the process of redoing the first few and adding their solutions to here, that includes:
-7-17, 19-21, 25, 27
+8-12, 14-17, 20, 21, 25, 27
