@@ -1,4 +1,6 @@
-﻿using System;
+﻿/*Liam Tiemon*/
+
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -41,6 +43,7 @@ namespace projectEuler023 {
             for (int i = 0; i < noSums.Length; i++) {
                 answer += noSums[i];
             }
+            Console.Clear();
             s.Stop();
             Console.WriteLine("sum of all the positive integers which cannot be written as the sum of two abundant numbers is: {0}\nSolution took: {1} ms", answer, s.Elapsed.TotalMilliseconds);
         }

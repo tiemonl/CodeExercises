@@ -1,4 +1,6 @@
-﻿using System;
+﻿/*Liam Tiemon*/
+
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -9,7 +11,7 @@ namespace projectEuler024 {
     class Program {
         static void Main(string[] args) {
 
-            Stopwatch sw = Stopwatch.StartNew();
+            Stopwatch s = Stopwatch.StartNew();
             //There are 10! permutations of 0123456789
             //There are 9! permutations of 123456789 = 362880
             //So for numbers beginning with 0 and 1 there are 725760 permutations
@@ -17,18 +19,18 @@ namespace projectEuler024 {
             //20xxxxxxxx has 8! permutations = 40320. 274240/40320 = 6.8....etc
             char[] result = new char[10];
             double permutation = 1000000;
-            string s = "0123456789";
-            for (int i = s.Length - 1; i >= 0; i--) {
-                double index = Math.Ceiling(permutation / FactorialSmallInt(s.Length - 1)) - 1;
-                result[i] = s[(int)index];
-                s = s.Remove((int)index, 1);
-                permutation -= FactorialSmallInt(i) * index;
+            string perms = "0123456789";
+            for (int i = perms.Length - 1; i >= 0; i--) {
+                int index = (int)Math.Ceiling(permutation / Factorial(perms.Length - 1)) - 1;
+                result[i] = perms[index];
+                perms = perms.Remove(index, 1);
+                permutation -= Factorial(i) * index;
             }
             Array.Reverse(result);
-            sw.Stop();
-            Console.WriteLine("The millionth lexicographic permutation is: {0}\nSolution took {1} ms", new string(result), sw.Elapsed.TotalMilliseconds);
+            s.Stop();
+            Console.WriteLine("The millionth lexicographic permutation is: {0}\nSolution took {1} ms", new string(result), s.Elapsed.TotalMilliseconds);
         }
-        public static double FactorialSmallInt(int n) {
+        public static double Factorial(int n) {
             int factorial = 1;
             for (int i = 1; i <= n; i++) {
                 factorial *= i;

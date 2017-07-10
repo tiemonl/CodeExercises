@@ -1,4 +1,6 @@
-﻿using System;
+﻿/*Liam Tiemon*/
+
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -16,7 +18,8 @@ namespace projectEuler018 {
                    .Select(l => l.Split(' ').Select(i => int.Parse(i)).ToArray())
                    .ToArray();
 
-            //I'm going from the bottom of the pyramid adding the two childs to the parent node and seeing which addition gave the lower value, from there i save the higher value and go to the next set until i finish the row and move up a row until i reach the top which will give me my maximum number.
+            //I'm going from the bottom of the pyramid adding the two childs to the parent node and seeing which addition gave the lower value, 
+            //from there i save the higher value and go to the next set until i finish the row and move up a row until i reach the top which will give me my maximum number.
             for (int i = nums.Length - 1; i > 0; --i) {
                 for (int j = 1; j < nums[i].Length; j++) {
                     if (nums[i][j - 1] > nums[i][j])

@@ -1,4 +1,6 @@
-﻿using System;
+﻿/*Liam Tiemon*/
+
+using System;
 using System.Diagnostics;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,8 +19,8 @@ namespace projectEuler044 {
                     int sumPent = pentagons[j] + pentagons[k];
                     int subPent = Math.Abs(pentagons[k] - pentagons[j]);
                     if (pentagons.Contains(sumPent) && pentagons.Contains(subPent)) {
-                        Console.WriteLine("{0} + {1} = {2} which are all pentagonal", pentagons[j], pentagons[k], sumPent);
-                        Console.WriteLine("{1} - {0} = {2} which are all pentagonal", pentagons[j], pentagons[k], subPent);
+                        Console.WriteLine("{0} + {1} = {2} which are all pentagonal", pentagons[k], pentagons[j], sumPent);
+                        Console.WriteLine("{0} - {1} = {2} which are all pentagonal", pentagons[k], pentagons[j], subPent);
                         Console.WriteLine("j: {0}          k: {1}", j, k);
                         j = pentagons.Count;
                         break;

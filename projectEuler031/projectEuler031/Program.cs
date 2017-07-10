@@ -1,4 +1,6 @@
-﻿using System;
+﻿/*Liam Tiemon*/
+
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -11,7 +13,7 @@ namespace projectEuler031 {
             Stopwatch s = Stopwatch.StartNew();
 
             int target = 200;
-            int ways = 0;
+            int total = 0;
 
             for (int a = target; a >= 0; a -= 200) {
                 for (int b = a; b >= 0; b -= 100) {
@@ -20,7 +22,7 @@ namespace projectEuler031 {
                             for (int e = d; e >= 0; e -= 10) {
                                 for (int f = e; f >= 0; f -= 5) {
                                     for (int g = f; g >= 0; g -= 2) {
-                                        ways++;
+                                        total++;
                                     }
                                 }
                             }
@@ -28,7 +30,7 @@ namespace projectEuler031 {
                     }
                 }
             }
-            Console.WriteLine("2 Pounds can be generated in {0} number of ways\nSolution took {1} ms", ways, s.Elapsed.TotalMilliseconds);
+            Console.WriteLine("2 Pounds can be generated in {0} number of ways\nSolution took {1} ms", total, s.Elapsed.TotalMilliseconds);
         }
     }
 }

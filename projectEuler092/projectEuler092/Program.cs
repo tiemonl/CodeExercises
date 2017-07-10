@@ -1,4 +1,6 @@
-﻿using System;
+﻿/*Liam Tiemon*/
+
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -22,7 +24,7 @@ namespace projectEuler092 {
         }
         static bool check(int n) {
             int num = n;
-            while (true) {//i use an infinite loop because i have statements inside that will always be reached and end it.
+            while (true) {//i use an infinite loop because i have statements inside that will always be reached and end it. Definitely not best practice.
 
                 int[] result = num.ToString().Select(o => Convert.ToInt32(o) - '0').ToArray();
                 num = 0;

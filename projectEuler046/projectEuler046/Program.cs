@@ -1,4 +1,6 @@
-﻿using System;
+﻿/*Liam Tiemon*/
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -8,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace projectEuler046 {
     class Program {
-        const int NUMS = 50000;
+        const int NUMS = 10000;
         static void Main(string[] args) {
             Stopwatch s = Stopwatch.StartNew();
             List<int> oddComp = calcOddComp();

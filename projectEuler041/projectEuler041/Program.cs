@@ -1,4 +1,6 @@
-﻿using System;
+﻿/*Liam Tiemon*/
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -10,7 +12,7 @@ namespace projectEuler041 {
     class Program {
         static void Main(string[] args) {
             Stopwatch s = Stopwatch.StartNew();
-            int[] primes = ESieve(1000000000);
+            int[] primes = ESieve(10000000);
             int answer = 0;
             for (int i = primes.Length - 1; i > 0; --i) {
 
