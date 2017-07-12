@@ -2,6 +2,7 @@
 
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,8 +11,9 @@ namespace projectEuler094 {
     class Program {
         static void Main(string[] args) {
 
-            //i first used the commented code below to find almost equilateral triangles, which worked until it lost precision, so i used those values to find a pattern on https://oeis.org/ to calculate the answer.
+            //i first used the commented code below to find almost equilateral triangles, which worked until it lost precision after 10 triangles, so i used those values to find a pattern on https://oeis.org/ to calculate the answer.
             //i also noticed that the third side always rotates on whether to add or subtract from the equal sides;
+            //Stopwatch s = Stopwatch.StartNew();
             int[] a = new int[30];
             a[0] = 1;
             a[1] = 1;
@@ -32,6 +34,8 @@ namespace projectEuler094 {
             }
             perimeters -= (3 * side) - m;
             Console.WriteLine(perimeters);
+            //s.Stop();
+            //Console.WriteLine("Solution took {0} ms", s.Elapsed.TotalMilliseconds);
 
             //double height;
             //double area;

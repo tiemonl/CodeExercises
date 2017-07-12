@@ -1,4 +1,6 @@
-﻿using System;
+﻿/*Liam Tiemon*/
+
+using System;
 using System.Numerics;
 using System.Windows.Forms;
 using System.Collections.Generic;
