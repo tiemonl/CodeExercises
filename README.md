@@ -1,2 +1,1 @@
 # Hacker Rank
-# Hacker Rank
