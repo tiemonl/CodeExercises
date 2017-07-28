@@ -31,7 +31,7 @@ namespace projectEuler011 {
             for (row = 0; row < GRID_SIZE; row++) {
                 for (int col = 0; col < GRID_SIZE; col++) {
 
-                    if (row< GRID_SIZE-4) {//horizontal (left to right) check
+                    if (row< GRID_SIZE-3) {//horizontal (left to right) check
                         for (int i = 0; i < 4; i++) {
                             total *= grid[row + i, col];
                         }
@@ -40,7 +40,7 @@ namespace projectEuler011 {
                         }
                         total = 1;
                     }
-                    if (col < GRID_SIZE - 4) {//vertical (up to down) check
+                    if (col < GRID_SIZE - 3) {//vertical (up to down) check
                         for (int i = 0; i < 4; i++) {
                             total *= grid[row, col + i];
                         }
@@ -49,7 +49,7 @@ namespace projectEuler011 {
                         }
                         total = 1;
                     }
-                    if (row < GRID_SIZE - 4 && col < GRID_SIZE - 4) {//diagonal (NW to SE) check
+                    if (row < GRID_SIZE - 3 && col < GRID_SIZE - 3) {//diagonal (NW to SE) check
                         for (int i = 0; i < 4; i++) {
                             total *= grid[row + i, col+i];
                         }
@@ -58,9 +58,9 @@ namespace projectEuler011 {
                         }
                         total = 1;
                     }
-                    if (row < GRID_SIZE - 4 && col > 3) {//diagonal (SW to NE) check
+                    if (row >=3 && col < GRID_SIZE - 3) {//diagonal (SW to NE) check
                         for (int i = 0; i < 4; i++) {
-                            total *= grid[row + i, col - i];
+                            total *= grid[row - i, col + i];
                         }
                         if (total > highestProduct) {
                             highestProduct = total;

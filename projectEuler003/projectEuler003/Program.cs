@@ -12,23 +12,24 @@ namespace projectEuler003 {
         const long masterNum = 600851475143;
         static void Main(string[] args) {
             Stopwatch s = Stopwatch.StartNew();
-            long largestFact = 0;
-            for (long i = 2; i*i < masterNum; i++) {//only need to check up to sqrt of num
-                if (masterNum % i == 0) { //check to see if i is a divisor of the number.
-                    bool isPrime = true;
-                    for (long j = 2; j < i; j++) {
-                        if (i%j ==0) { //check to see if i has any divisors, if not, it is prime.
-                            isPrime = false;
-                            break;
-                        }
-                    }
-                    if (isPrime) {
-                        largestFact = i;
-                    }
-                }
-            }
+            long largestFact = primeCheck(masterNum);
             s.Stop();
             Console.WriteLine("Largest prime factor of the number 600851475143 is: {0}\nSolution took: {1} ms",largestFact,s.Elapsed.TotalMilliseconds);
+        }
+        public static long primeCheck(long n) {
+            int i;
+            while (n % 2 == 0) n /= 2;
+            if (n == 1) return 2;
+            for (i = 3; i <= Math.Sqrt(n); i += 2) {
+                while (n % i == 0) {
+                    n /= i;
+                }
+            }
+            if (n > 2) {
+                return n;
+            } else {
+                return i - 2;
+            }
         }
     }
 }
