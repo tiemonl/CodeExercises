@@ -1,0 +1,7 @@
+Z:\Users\Liam\Documents\github\adventOfCode\adventOfCode03\adventOfCode03\bin\Debug\adventOfCode03.exe.config
+Z:\Users\Liam\Documents\github\adventOfCode\adventOfCode03\adventOfCode03\bin\Debug\adventOfCode03.exe
+Z:\Users\Liam\Documents\github\adventOfCode\adventOfCode03\adventOfCode03\bin\Debug\adventOfCode03.pdb
+Z:\Users\Liam\Documents\github\adventOfCode\adventOfCode03\adventOfCode03\obj\Debug\adventOfCode03.csprojResolveAssemblyReference.cache
+Z:\Users\Liam\Documents\github\adventOfCode\adventOfCode03\adventOfCode03\obj\Debug\adventOfCode03.csproj.CoreCompileInputs.cache
+Z:\Users\Liam\Documents\github\adventOfCode\adventOfCode03\adventOfCode03\obj\Debug\adventOfCode03.exe
+Z:\Users\Liam\Documents\github\adventOfCode\adventOfCode03\adventOfCode03\obj\Debug\adventOfCode03.pdb
