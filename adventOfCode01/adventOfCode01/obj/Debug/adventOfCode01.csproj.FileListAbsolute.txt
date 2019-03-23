@@ -1,7 +1,0 @@
-Z:\Users\Liam\Documents\github\adventOfCode\adventOfCode01\adventOfCode01\bin\Debug\adventOfCode01.exe.config
-Z:\Users\Liam\Documents\github\adventOfCode\adventOfCode01\adventOfCode01\bin\Debug\adventOfCode01.exe
-Z:\Users\Liam\Documents\github\adventOfCode\adventOfCode01\adventOfCode01\bin\Debug\adventOfCode01.pdb
-Z:\Users\Liam\Documents\github\adventOfCode\adventOfCode01\adventOfCode01\obj\Debug\adventOfCode01.csprojResolveAssemblyReference.cache
-Z:\Users\Liam\Documents\github\adventOfCode\adventOfCode01\adventOfCode01\obj\Debug\adventOfCode01.csproj.CoreCompileInputs.cache
-Z:\Users\Liam\Documents\github\adventOfCode\adventOfCode01\adventOfCode01\obj\Debug\adventOfCode01.exe
-Z:\Users\Liam\Documents\github\adventOfCode\adventOfCode01\adventOfCode01\obj\Debug\adventOfCode01.pdb
