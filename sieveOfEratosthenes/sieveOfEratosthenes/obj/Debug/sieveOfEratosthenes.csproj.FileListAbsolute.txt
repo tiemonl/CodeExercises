@@ -1,5 +1,0 @@
-c:\users\ljtiemon\documents\visual studio 2017\Projects\sieveOfEratosthenes\sieveOfEratosthenes\bin\Debug\sieveOfEratosthenes.exe.config
-c:\users\ljtiemon\documents\visual studio 2017\Projects\sieveOfEratosthenes\sieveOfEratosthenes\bin\Debug\sieveOfEratosthenes.exe
-c:\users\ljtiemon\documents\visual studio 2017\Projects\sieveOfEratosthenes\sieveOfEratosthenes\bin\Debug\sieveOfEratosthenes.pdb
-c:\users\ljtiemon\documents\visual studio 2017\Projects\sieveOfEratosthenes\sieveOfEratosthenes\obj\Debug\sieveOfEratosthenes.exe
-c:\users\ljtiemon\documents\visual studio 2017\Projects\sieveOfEratosthenes\sieveOfEratosthenes\obj\Debug\sieveOfEratosthenes.pdb
